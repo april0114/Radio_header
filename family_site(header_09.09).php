@@ -59,7 +59,7 @@ $header_top_menu_args = Helper::header_top_menu_args();
                         <!-- ▼ Family Site 드롭다운 (포탈 방식) -->
                         <li class="header-more has-dropdown">
                             <a href="#" class="more-toggle" aria-expanded="false" aria-haspopup="true" aria-controls="header-more-menu" role="button">
-                                Family Site <span class="caret">▾</span>
+                                FAMILY SITE <span class="caret">▾</span>
                             </a>
                             <ul id="header-more-menu" class="more-menu" role="menu" aria-label="Family Site">
                                 <li role="none"><a role="menuitem" href="https://sedaily.com/" target="_blank" rel="noopener">서울경제</a></li>
